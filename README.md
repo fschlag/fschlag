@@ -2,7 +2,7 @@
 
 ### <div align="center">I'm Florian, a full-stack developer from Paderborn, Germany 🇩🇪</div>
 
-- 🌱 I’m currently learning Kotlin
+- 🌱 I’m currently learning htmx and Go
 
 - ⚡ Fun fact: I use the Dracula theme 🧛🏻‍♂️
 
